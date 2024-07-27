@@ -1,0 +1,12 @@
+.avatar {
+    width: 100px;
+    /* fixed width */
+    height: 100px;
+    /* fixed height */
+    object-fit: cover;
+    /* scale the image to fit the container */
+    border-radius: 50%;
+    /* make it a circle */
+    margin: 10px;
+    /* add some margin */
+}
