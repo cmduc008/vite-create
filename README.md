@@ -1,4 +1,4 @@
 # React + Vite
 
 npm install
-Tnpm run dev
+npm run dev
